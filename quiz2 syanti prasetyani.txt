@@ -1,0 +1,55 @@
+Pengenalan Git
+
+Git (Group Inclusive Tour) adalah VSC dan open source. perancangannya untuk menangani segala project besar atau sederhana. Terdapat 2 sistem git, yaitu 
+- Centralized berkerja hanya dengan menggunakan satu server yang berfungsi untuk menyimpan data dari project. kekurangannya jika terjadi server corrupt maka data project akan terikut hilang.
+- Distributed bekerja dengan menyimpan data project di lokal dan di server dan juga  bisa dibackup.
+Fitur - fitur Git :
+- Version Control, menyimpan perubahan pada source code untuk memantau dan mengelola code version berbeda.
+- Git  Branch, digunakan saat menambahkkan fitur baru/ memperbaiki bug.
+- Merging, untuk menggabungkan perubahan yang dibuat ke branch utama.
+- Staging Area, memilih perubahan yang akan dicommit ke repository.
+- Git Rebase, menggabung atau menggeset commit base. 
+- Hooks, script secara otomatis disaat terjadi peristiwa.
+- GUI tools, untuk memudahkan Git untuk pengguna yang kurang terbiasa.
+> kelebihan :
+- mengelola dengan mudah
+- melakukan branching dan merging dengan aman
+- melacak perubahan pada source code
+- peforma yang cepat dan stabil
+> kekurangan :
+- fitur yang kompleks
+- memerlukan pemahaman yang baik tentang konsep dasar
+- sulit digunakan untuk pengelolaan file biner
+
+Pengenalan Gitlab
+
+Berupa software bersifat open source dimana memiliki fungsi pengelola repositori dimana user akan berkolaborasi untuk mengerjakan task atau kode selain itu, memiliki fungsi untuk meringakan task para developer. Versi yang dimiliki Git Lab terdiri dari 4 macam, yaitu:
+Gitlab Enterprise Edition, Gitlab.com, Gitlab Community Edition (Gitlab CE) and Gitlab CI.
+
+Keunggulan dan Kelemahan Gitlab 
+Keunggulan 
+- Pemrosesan CI/CD yang mudah digunakan 
+- Keamanan yang tinggi 
+- Fitur kolaborasi yang lebih unggul 
+Kekurangan Gitlab 
+- Kompleks bagi orang awam 
+- Memiliki konfigurasi yang rumit
+- Sebagian gratis
+
+Pengenalan Github
+
+Untuk mengelola source code-nya dengan version control system milik github. 
+- Forking repository ialah membuat proyek baru berdasarkan repository yang sudah ada.
+- Pull Request ialah menginformasikan user bahwa Anda sudah memindahkan perubahan yang Anda lakukan di branch ke master repository.
+- Merging merupakan penggabungan source code yang sudah diubah pada suatu branch ke branch lainnya.
+
+keunggulan
+- gratis digunakan.
+- dapat melacakan perubahan yang terjadi.
+- bisa akses proyek orang lain untuk bangkitkan semangat.
+- mampu mengintegrasikan Development IDE.
+
+Kekurangan
+- keamanan tidak berlaku untuk repositori pribadi 
+- memerlukan koneksi stabil
+- membatasi pengguna untuk membuat repositori pribadi
